@@ -1,0 +1,11 @@
+.ContentContainer {
+  background-color: #1e293b;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #00e7ff;
+}
